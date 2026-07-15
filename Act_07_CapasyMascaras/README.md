@@ -15,5 +15,5 @@ Usé la IA de copilot para quitar el fondo de la imagen de la mona china y escal
 
 
 ### Resultado final:
-![Resultado final]([http://url/to/img.png](https://github.com/KarnNA10/EdicionDeImagen/blob/main/Act_07_CapasyMascaras/_bATTERSEA.png))
+![Resultado final](https://github.com/KarnNA10/EdicionDeImagen/blob/main/Act_07_CapasyMascaras/_bATTERSEA.png)
 
