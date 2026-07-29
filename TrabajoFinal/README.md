@@ -4,7 +4,26 @@
 
 ---
 ### Título: Dies iræ
+
+
+
 Hice este dibujo originalmente en una etapa muy fría y obscura de mi vida, por lo que me gustaba dibujar calacas con armadura. Me inspiré mucho en videojuegos que estaba jugando entonces y los disfrutaba mucho como Dark Souls, Blasphemous, Felvidek y Super Lesbian Animal RPG.
+
+---
+### Descarga
+[⬇️ Archivo original .PSD](https://github.com/KarnNA10/EdicionDeImagen/blob/main/TrabajoFinal/Final/Actividad9_Evaluacion_KarenNavarro.psd)
+
+
+[⬇️ Imagen mediana .PNG (322kb)](https://github.com/KarnNA10/EdicionDeImagen/blob/main/TrabajoFinal/Final/Actividad9_Evaluacion_KarenNavarro_Full.png)
+
+
+[⬇️ Imagen chica .PNG (200kb)](https://github.com/KarnNA10/EdicionDeImagen/blob/main/TrabajoFinal/Final/Actividad9_Evaluacion_KarenNavarro_Mini.png)
+
+
+
+También pueden encontrarse en la carpeta ["Final"](https://github.com/KarnNA10/EdicionDeImagen/tree/main/TrabajoFinal/Final)
+
+
 
 ---
 ### Proceso
