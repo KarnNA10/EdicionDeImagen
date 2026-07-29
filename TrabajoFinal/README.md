@@ -14,6 +14,9 @@ Hice este dibujo originalmente en una etapa muy fría y obscura de mi vida, por 
 [⬇️ Archivo original .PSD](https://github.com/KarnNA10/EdicionDeImagen/blob/main/TrabajoFinal/Final/Actividad9_Evaluacion_KarenNavarro.psd?download=)
 
 
+[⬇️ Imagen grande .PNG (7.3Mb)](https://github.com/KarnNA10/EdicionDeImagen/blob/main/TrabajoFinal/Final/Actividad9_Evaluacion_KarenNavarro_Grandee.png)
+
+
 [⬇️ Imagen mediana .PNG (322kb)](https://github.com/KarnNA10/EdicionDeImagen/blob/main/TrabajoFinal/Final/Actividad9_Evaluacion_KarenNavarro_Full.png?download=)
 
 
