@@ -9,6 +9,9 @@
 
 Hice este dibujo originalmente en una etapa muy fría y obscura de mi vida, por lo que me gustaba dibujar calacas con armadura. Me inspiré mucho en videojuegos que estaba jugando entonces y los disfrutaba mucho como Dark Souls, Blasphemous, Felvidek y Super Lesbian Animal RPG.
 
+
+(42.34x58.14cm)
+
 ---
 ### Descargas
 [![⬇️ Archivo original .PSD](https://shields.io)](https://github.com/KarnNA10/EdicionDeImagen/blob/main/TrabajoFinal/Final/Actividad9_Evaluacion_KarenNavarro.psd)
@@ -17,10 +20,7 @@ Hice este dibujo originalmente en una etapa muy fría y obscura de mi vida, por 
 [![⬇️ Imagen grande .PNG (7.3Mb)](https://shields.io)](https://github.com/KarnNA10/EdicionDeImagen/blob/main/TrabajoFinal/Final/Actividad9_Evaluacion_KarenNavarro_Grandee.png)
 
 
-[![⬇️ Imagen mediana .PNG (322kb)](https://shields.io)](https://github.com/KarnNA10/EdicionDeImagen/blob/main/TrabajoFinal/Final/Actividad9_Evaluacion_KarenNavarro_Full.png)
-
-
-[![⬇️ Imagen chica .PNG (200kb)](https://shields.io)](https://github.com/KarnNA10/EdicionDeImagen/blob/main/TrabajoFinal/Final/Actividad9_Evaluacion_KarenNavarro_Mini.png)
+[![⬇️ Imagen chica .PNG (387kb)](https://shields.io)](https://github.com/KarnNA10/EdicionDeImagen/blob/main/TrabajoFinal/Final/Actividad9_Evaluacion_KarenNavarro_Mini.png)
 
 
 
