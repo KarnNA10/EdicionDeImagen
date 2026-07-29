@@ -1,6 +1,6 @@
 # Edición de Imagen - Trabajo Final
 
-![Imagen del resultado final - calaca chida](https://github.com/KarnNA10/EdicionDeImagen/blob/main/TrabajoFinal/Final/Actividad9_Evaluacion_KarenNavarro_Full.png)
+![Imagen del resultado final - calaca chida](https://github.com/KarnNA10/EdicionDeImagen/blob/main/TrabajoFinal/Final/Actividad9_Evaluacion_KarenNavarro_Grandee.png)
 
 ---
 ### Título: Dies iræ
@@ -11,16 +11,16 @@ Hice este dibujo originalmente en una etapa muy fría y obscura de mi vida, por 
 
 ---
 ### Descargas
-[⬇️ Archivo original .PSD](https://github.com/KarnNA10/EdicionDeImagen/blob/main/TrabajoFinal/Final/Actividad9_Evaluacion_KarenNavarro.psd?download=)
+[![⬇️ Archivo original .PSD](https://shields.io)](https://github.com/KarnNA10/EdicionDeImagen/blob/main/TrabajoFinal/Final/Actividad9_Evaluacion_KarenNavarro.psd)
 
 
-[⬇️ Imagen grande .PNG (7.3Mb)](https://github.com/KarnNA10/EdicionDeImagen/blob/main/TrabajoFinal/Final/Actividad9_Evaluacion_KarenNavarro_Grandee.png)
+[![⬇️ Imagen grande .PNG (7.3Mb)](https://shields.io)](https://github.com/KarnNA10/EdicionDeImagen/blob/main/TrabajoFinal/Final/Actividad9_Evaluacion_KarenNavarro_Grandee.png)
 
 
-[⬇️ Imagen mediana .PNG (322kb)](https://github.com/KarnNA10/EdicionDeImagen/blob/main/TrabajoFinal/Final/Actividad9_Evaluacion_KarenNavarro_Full.png?download=)
+[![⬇️ Imagen mediana .PNG (322kb)](https://shields.io)](https://github.com/KarnNA10/EdicionDeImagen/blob/main/TrabajoFinal/Final/Actividad9_Evaluacion_KarenNavarro_Full.png)
 
 
-[⬇️ Imagen chica .PNG (200kb)](https://github.com/KarnNA10/EdicionDeImagen/blob/main/TrabajoFinal/Final/Actividad9_Evaluacion_KarenNavarro_Mini.png?download=)
+[![⬇️ Imagen chica .PNG (200kb)](https://shields.io)](https://github.com/KarnNA10/EdicionDeImagen/blob/main/TrabajoFinal/Final/Actividad9_Evaluacion_KarenNavarro_Mini.png)
 
 
 
