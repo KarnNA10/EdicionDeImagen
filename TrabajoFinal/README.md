@@ -17,7 +17,7 @@ Hice este dibujo originalmente en una etapa muy fría y obscura de mi vida, por 
 
 
 
-|<a href="https://github.com/KarnNA10/EdicionDeImagen/blob/main/TrabajoFinal/Final/Actividad9\_Evaluacion\_KarenNavarro.psd">⬇️ Archivo original .PSD</a><br/><br /><a href="https://github.com/KarnNA10/EdicionDeImagen/blob/main/TrabajoFinal/Final/Actividad9\_Evaluacion\_KarenNavarro\_Grandee.png">⬇️ Imagen grande .PNG (7.3Mb)</a><br/><br /><a href="https://github.com/KarnNA10/EdicionDeImagen/blob/main/TrabajoFinal/Final/Actividad9\_Evaluacion\_KarenNavarro\_Mini.png">⬇️ Imagen chica .PNG (387kb)</a><br/>|Dar click en el botón de descargar al dar click en el link de cada imagen|
+|<a href="https://github.com/KarnNA10/EdicionDeImagen/blob/main/TrabajoFinal/Final/Actividad9\_Evaluacion\_KarenNavarro.psd">⬇️ Archivo original .PSD</a><br/><br /><a href="https://github.com/KarnNA10/EdicionDeImagen/blob/main/TrabajoFinal/Final/Actividad9\_Evaluacion\_KarenNavarro\_Grandee.png">⬇️ Imagen grande .PNG (7.3Mb)</a><br/><br /><a href="https://github.com/KarnNA10/EdicionDeImagen/blob/main/TrabajoFinal/Final/Actividad9\_Evaluacion\_KarenNavarro\_Mini.png">⬇️ Imagen chica .PNG (387kb)</a><br/>|Dar click en el botón de descargar al dar click en el link de cada imagen <img src="https://github.com/KarnNA10/EdicionDeImagen/blob/main/TrabajoFinal/Proceso/Screenshot%202026-08-02%20102437.png" style="width:70vh;height:auto;"/>|
 |-|-|
 
 
