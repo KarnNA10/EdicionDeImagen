@@ -14,13 +14,11 @@ Hice este dibujo originalmente en una etapa muy fría y obscura de mi vida, por 
 
 ---
 ### Descargas
-[![⬇️ Archivo original .PSD](https://shields.io)](https://github.com/KarnNA10/EdicionDeImagen/blob/main/TrabajoFinal/Final/Actividad9_Evaluacion_KarenNavarro.psd)
 
 
-[![⬇️ Imagen grande .PNG (7.3Mb)](https://shields.io)](https://github.com/KarnNA10/EdicionDeImagen/blob/main/TrabajoFinal/Final/Actividad9_Evaluacion_KarenNavarro_Grandee.png)
 
-
-[![⬇️ Imagen chica .PNG (387kb)](https://shields.io)](https://github.com/KarnNA10/EdicionDeImagen/blob/main/TrabajoFinal/Final/Actividad9_Evaluacion_KarenNavarro_Mini.png)
+|<a href="https://github.com/KarnNA10/EdicionDeImagen/blob/main/TrabajoFinal/Final/Actividad9\_Evaluacion\_KarenNavarro.psd">⬇️ Archivo original .PSD</a><br/><br /><a href="https://github.com/KarnNA10/EdicionDeImagen/blob/main/TrabajoFinal/Final/Actividad9\_Evaluacion\_KarenNavarro\_Grandee.png">⬇️ Imagen grande .PNG (7.3Mb)</a><br/><br /><a href="https://github.com/KarnNA10/EdicionDeImagen/blob/main/TrabajoFinal/Final/Actividad9\_Evaluacion\_KarenNavarro\_Mini.png">⬇️ Imagen chica .PNG (387kb)</a><br/>|Dar click en el botón de descargar al dar click en el link de cada imagen|
+|-|-|
 
 
 
